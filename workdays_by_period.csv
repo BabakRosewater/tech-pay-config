@@ -1,0 +1,3 @@
+store,year,month,period,start_date,end_date,workdays,notes
+MT014,2025,11,H1,2025-11-01,2025-11-15,11,"Sample: Mon–Fri workdays for Nov 1–15"
+MT014,2025,11,H2,2025-11-16,2025-11-30,9,"Sample: Mon–Fri workdays for Nov 16–30 (Thanksgiving week)"
